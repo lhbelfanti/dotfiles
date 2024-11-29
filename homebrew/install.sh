@@ -5,8 +5,7 @@ echo "Installing Homebrew..."
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 echo "Installing Homebrew brews (libraries)..."
-xargs brew install –-formula < ./homebrew/brews.txt
+xargs brew install --formula < ./homebrew/brews.txt
 
 echo "Installing Homebrew casks (applications)..."
-
-xargs brew install –-cask < ./homebrew/casks.txt
+xargs brew install --cask < ./homebrew/casks.txt
