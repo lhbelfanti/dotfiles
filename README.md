@@ -29,4 +29,5 @@ There are a few things that need to be made manually:
 - Setup Charles license
 - Install Python version, using `pyenv`
 - Install Node version, using `nvm`
-- Install [Coin Tick app](https://apps.apple.com/us/app/coin-tick-menu-bar-crypto/id1141688067?mt=12)
+- Install [Coin Tick app](apps/CoinTick.app.zip)
+- Install [Battery Monitor: Health Info](https://apps.apple.com/us/app/battery-monitor-health-info/id836505650?mt=12)
