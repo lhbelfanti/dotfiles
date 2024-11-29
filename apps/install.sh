@@ -4,4 +4,4 @@ echo "Installing Apps..."
 
 unzip ./apps/CoinTick.app.zip
 
-cp -R "./Coin Tick.app" ~/Applications/
+cp -R "./Coin Tick.app" /Applications
