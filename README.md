@@ -31,3 +31,6 @@ There are a few things that need to be made manually:
 - Install Node version, using `nvm`
 - Install [Coin Tick app](apps/CoinTick.app.zip)
 - Install [Battery Monitor: Health Info](https://apps.apple.com/us/app/battery-monitor-health-info/id836505650?mt=12)
+- Configure Hot Corners
+- Configure Battery Icon to show percentage
+- Configure iTerm to [use the correct fonts](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#manual-font-installation)
