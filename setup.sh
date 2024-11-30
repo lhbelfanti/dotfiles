@@ -7,4 +7,6 @@ echo "-- Setup initialized --"
 ./homebrew/install.sh
 ./apps/install.sh
 
+
+
 echo "-- Setup finished --"
